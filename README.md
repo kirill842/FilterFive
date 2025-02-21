@@ -1,5 +1,5 @@
 # 5 Filters
-Windows Program to apply five different filters to an image with GUI.
+Windows program to apply five different filters to an image with GUI.
 Open your image, apply any filter and save it on your computer. Available filters:
 1) Highlight orange 
 2) Linear Sawtooth filter 
