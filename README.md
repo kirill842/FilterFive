@@ -7,7 +7,7 @@ Open your image, apply any filter and save it on your computer. Available filter
 4) Histogram quantization (Easily analyze the histograms that the program will draw on your screen) 
 5) Horizontal Nearest Neighbor Scaling
 
-The main code is in MainForm.h
+Main code is in MainForm.h
 
 Screenshots:
 
